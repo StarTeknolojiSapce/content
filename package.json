@@ -16,6 +16,6 @@
   "dependencies": {
     "@mdn/yari": "2.25.0",
     "cross-env": "7.0.3",
-    "env-cmd": "10.1.0"
+    "env-cmd": "11.0.0"
   }
 }
